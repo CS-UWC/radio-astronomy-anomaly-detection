@@ -14,7 +14,7 @@ This repository contains the implementation and evaluation of enhanced Isolation
 
 ### Installation
 ```bash
-git clone https://github.com/your-username/radio-astronomy-anomaly-detection.git
+gh repo clone CS-UWC/radio-astronomy-anomaly-detection
 cd radio-astronomy-anomaly-detection
 pip install -r requirements.txt
 Basic Usage
